@@ -1,0 +1,17 @@
+<resources>
+	<string name="app_name">Todo List v3</string>
+
+	<string name="dateStringFormat">dd/MM/yyyy</string>
+	<string name="callPrefix">call</string>
+
+	<string name="uriCallPrefix">tel:</string>
+
+	<string name="menuStringAdd">Add Item...</string>
+	<string name="menuStringExit">Exit</string>
+
+	<string name="contextMenuStringDelete">Delete Item</string>
+	<string name="contextMenuStringCall">Call</string>
+
+	<string name="dbTableName">todo_db</string>
+
+</resources>
